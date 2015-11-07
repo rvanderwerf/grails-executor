@@ -1,0 +1,11 @@
+grails:
+   profile: web-plugin
+   doc:
+      authors: 'Joshua Burnettd'
+      license: 'Apache License 2.0'
+      title:   'Concurrency / asynchronous /background process plugin'
+info:
+   app:
+      name: '@info.app.name@'
+      version: '@info.app.version@'
+      grailsVersion: '@info.app.grailsVersion@'
